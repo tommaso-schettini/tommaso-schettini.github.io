@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Assistant Professor in the [Department of Mechanical, Industrial and Aerospace Engineering (MIAE)](https://www.concordia.ca/ginacody/miae.html) at Concordia University, where I joined the faculty in August 2024. My research advances **optimization methods for sustainable transportation**, with applications in metro scheduling, electric vehicle infrastructure planning, and simulation-based optimization. My work has a dual focus of strong methodological contributions and efficient algorithmic implementations.
+I am Assistant Professor in the [Department of Mechanical, Industrial and Aerospace Engineering (MIAE)](https://www.concordia.ca/ginacody/mechanical-industrial-aerospace-eng.html) at Concordia University, where I joined the faculty in August 2024. My research advances **optimization methods for sustainable transportation**, with applications in metro scheduling, electric vehicle infrastructure planning, and simulation-based optimization. My work has a dual focus of strong methodological contributions and efficient algorithmic implementations.
 
 ## Research Interests
 
@@ -17,9 +17,9 @@ I am Assistant Professor in the [Department of Mechanical, Industrial and Aerosp
 
 ## Background
 
-Prior to joining Concordia, I was a postdoctoral fellow (2022–2024) at [HEC Montréal](https://www.hec.ca/) and [GERAD](https://www.gerad.ca/), working on efficient optimization methods for large-scale Discrete Simulation-based Optimization problems under the supervision of Professors [Carolina Osorio](https://www.gerad.ca/en/people/carolina-osorio), [Jorge E. Mendoza](https://www.gerad.ca/en/people/jorge-mendoza), and [Fausto Errico](https://www.hec.ca/en/profs/fausto.errico.html).
+Prior to joining Concordia, I was a postdoctoral fellow (2022–2024) at [HEC Montréal](https://www.hec.ca/) and [GERAD](https://www.gerad.ca/), working on efficient optimization methods for large-scale Discrete Simulation-based Optimization problems under the supervision of Professors [Carolina Osorio](https://www.gerad.ca/en/people/carolina-osorio), [Jorge E. Mendoza](https://www.hec.ca/en/profs/jorge.mendoza.html), and [Fausto Errico](https://www.gerad.ca/en/people/fausto-errico).
 
-From 2021 to 2022, I was a postdoctoral researcher at [Politecnico di Milano](https://www.polimi.it/), working on algorithms for EV charging location in the context of the EV4Drivers European project, supervised by Professors [Federico Malucelli](https://malucelli.faculty.polimi.it/) and [Ola Jabali](https://www.ola-jabali.com/).
+From 2021 to 2022, I was a postdoctoral researcher at [Politecnico di Milano](https://www.polimi.it/), working on algorithms for EV charging location in the context of the EV4Drivers European project, supervised by Professors [Federico Malucelli](https://www.deib.polimi.it/eng/people/details/67888) and [Ola Jabali](https://olajabali.wordpress.com/).
 
 I received my **PhD in Information Technology** (Systems and Control, *cum laude*) from Politecnico di Milano in 2021, under the supervision of Federico Malucelli and Ola Jabali. I also hold an MSc (2017) and BSc (2014) in Automation and Control Engineering from Politecnico di Milano, both *cum laude*.
 

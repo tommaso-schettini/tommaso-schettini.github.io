@@ -8,14 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "Publications & Talks"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/
 
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Prospective Students"
+    url: /hiring/
+
   - title: "CV"
-    url: /cv/
+    url: /files/CV-Tommaso-Schettini.pdf

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Talks"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- Publications by category -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -31,6 +31,17 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
+<!-- Talks -->
+<h2>Talks & Presentations</h2><hr />
+
+{% if site.talkmap_link == true %}
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 
 
 
