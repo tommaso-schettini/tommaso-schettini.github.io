@@ -39,10 +39,11 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color                 : #2191aa;
     --global-link-color-hover           : mix(#000, #1e6b7f, 25%);
     --global-link-color-visited         : mix(#fff, #1e6b7f, 25%);
-    --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
-    --global-text-color                 : #{$dark-gray};
+    --global-masthead-link-color        : #24292f;
+    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-text-color                 : #24292f;
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
+    --global-toc-bg-color               : #{$lighter-gray};
 }
 

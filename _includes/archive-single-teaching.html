@@ -1,0 +1,31 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+{% assign month = post.date | date: "%-m" | plus: 0 %}
+{% if month >= 1 and month <= 4 %}
+  {% assign semester = "Winter" %}
+{% elsif month >= 5 and month <= 8 %}
+  {% assign semester = "Summer" %}
+{% else %}
+  {% assign semester = "Fall" %}
+{% endif %}
+{% assign year = post.date | date: "%Y" %}
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <p class="archive__item-talk-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
+    </p>
+    <p class="page__meta">
+      {{ post.type }} &middot; {{ semester }} {{ year }}
+    </p>
+    {% if post.content %}
+      <p class="archive__item-excerpt">{{ post.content | strip_html | truncatewords: 30 }}</p>
+    {% endif %}
+  </article>
+</div>

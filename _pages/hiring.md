@@ -40,10 +40,10 @@ Prior experience with optimization solvers (CPLEX, Gurobi, OR-Tools) or constrai
 
 Current and upcoming projects include:
 
-- **Demand-driven metro timetabling** — optimization of train schedules under passenger demand and operational constraints, including short-turning strategies
-- **EV charging infrastructure** — locating and sizing charging stations under multi-year planning horizons and demand uncertainty
-- **Discrete simulation-based optimization** — efficient meta-algorithmic frameworks for stochastic combinatorial problems in ride-hailing and logistics
-- **Multi-modal and express transit** — integrated planning of bus and micromobility services
+- **Demand-driven metro timetabling**:optimization of train schedules under passenger demand and operational constraints, including short-turning strategies
+- **EV charging infrastructure**:locating and sizing charging stations under multi-year planning horizons and demand uncertainty
+- **Discrete simulation-based optimization**:efficient meta-algorithmic frameworks for stochastic combinatorial problems in ride-hailing and logistics
+- **Multi-modal and express transit**:integrated planning of bus and micromobility services
 
 ---
 
@@ -56,6 +56,6 @@ Send an email to [tommaso.schettini@concordia.ca](mailto:tommaso.schettini@conco
 - Unofficial **transcripts**
 - (Optional) A writing sample (thesis, report, or published paper)
 
-I read all applications but can only respond to candidates I intend to follow up with. Applying to Concordia's graduate program is a separate step — I am happy to guide admitted or prospective applicants through the process.
+I read all applications but can only respond to candidates I intend to follow up with. Applying to Concordia's graduate program is a separate step; I am happy to guide admitted or prospective applicants through the process.
 
 *Note: to be admitted to the Ph.D. or M.A.Sc. program, you must apply through [Concordia's graduate admissions portal](https://www.concordia.ca/admissions/graduate.html) and list me as a prospective supervisor.*

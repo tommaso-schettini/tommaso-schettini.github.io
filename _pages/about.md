@@ -11,9 +11,9 @@ I am Assistant Professor in the [Department of Mechanical, Industrial and Aerosp
 
 ## Research Interests
 
-- **Demand-driven public transit scheduling** — timetabling optimization for metro and rail systems, incorporating short-turning strategies and passenger capacity constraints
-- **Electric vehicle infrastructure planning** — locating and sizing EV chargers under multi-year planning horizons and varied demand allocation policies
-- **Discrete simulation-based optimization (DSO)** — efficient general-purpose methods for large-scale stochastic combinatorial problems, with applications in ride-hailing and EV charger siting
+- **Demand-driven public transit scheduling**:timetabling optimization for metro and rail systems, incorporating short-turning strategies and passenger capacity constraints
+- **Electric vehicle infrastructure planning**:locating and sizing EV chargers under multi-year planning horizons and varied demand allocation policies
+- **Discrete simulation-based optimization (DSO)**:efficient general-purpose methods for large-scale stochastic combinatorial problems, with applications in ride-hailing and EV charger siting
 
 ## Background
 
