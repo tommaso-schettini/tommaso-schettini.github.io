@@ -40,10 +40,10 @@ Prior experience with optimization solvers (CPLEX, Gurobi, OR-Tools) or constrai
 
 Current and upcoming projects include:
 
-- **Demand-driven metro timetabling**:optimization of train schedules under passenger demand and operational constraints, including short-turning strategies
-- **EV charging infrastructure**:locating and sizing charging stations under multi-year planning horizons and demand uncertainty
-- **Discrete simulation-based optimization**:efficient meta-algorithmic frameworks for stochastic combinatorial problems in ride-hailing and logistics
-- **Multi-modal and express transit**:integrated planning of bus and micromobility services
+- **Public Transit Optimization**: optimization of public transit systems under passenger demand and operational constraints, including timetabling and network design
+- **Multi-modal and express transit**: integrated planning of multimodal transit systems
+- **EV charging infrastructure**: locating and sizing charging stations under multi-year planning horizons and demand uncertainty
+- **Discrete simulation-based optimization**: efficient meta-algorithmic frameworks for stochastic combinatorial problems in ride-hailing and logistics
 
 ---
 
