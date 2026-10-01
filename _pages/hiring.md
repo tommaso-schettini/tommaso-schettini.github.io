@@ -20,7 +20,7 @@ I am recruiting **Ph.D. students** with strong backgrounds in operations researc
 I am recruiting **M.A.Sc. students** in Industrial Engineering. Positions are funded. Students with a background in industrial engineering, applied mathematics, computer science, or a related discipline are encouraged to apply.
 
 ### Undergraduate / Internship
-I occasionally supervise **undergraduate research projects and internships** (e.g., NSERC USRA). Concordia undergraduate students interested in a research experience in optimization are welcome to reach out.
+I occasionally supervise **undergraduate research projects and internships** (e.g., NSERC USRA). Concordia undergraduate students interested in a research experience in optimization are welcome to apply using the form below.
 
 ---
 
@@ -49,12 +49,7 @@ Current and upcoming projects include:
 
 ## How to Apply
 
-Send an email to [tommaso.schettini@concordia.ca](mailto:tommaso.schettini@concordia.ca) with:
-- **Subject line:** `[Prospective Student – PhD/MASc/Internship] Your Name`
-- A brief paragraph explaining your research interests and why you want to work with me
-- Your **CV**
-- Unofficial **transcripts**
-- (Optional) A writing sample (thesis, report, or published paper)
+To apply for a Ph.D., M.A.Sc., undergraduate research, or internship position, complete the [**student application form**](https://docs.google.com/forms/d/e/1FAIpQLSfCIrorE4DqE4GbwCRGG7RqdMUbNkMlrJed5IOqtCOq0kNttA/viewform?usp=header). Follow the instructions in the form and provide the requested information and documents.
 
 I read all applications but can only respond to candidates I intend to follow up with. Applying to Concordia's graduate program is a separate step; I am happy to guide admitted or prospective applicants through the process.
 
